@@ -1,41 +1,147 @@
-<h1 align="center">Hi 👋, I'm Ashvin A</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashvin-official&label=Profile%20views&color=0e75b6&style=flat" alt="ashvin-official" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=ASHVIN&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=ASPIRING%20DATA%20ANALYST&descSize=20&descAlignY=58&animation=fadeIn" alt="Ashvin — Aspiring Data Analyst header"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashvin-official" alt="ashvin-official" /></a> </p>
-
-- 🔭 I’m currently working on [Data Analytics and Student Productivity Analysis](https://finalresultinteraction.netlify.app/)
-
-- 🌱 I’m currently learning **Power BI, SQL, R Programming, Statistical Analysis and Data Visualization**
-
-- 👯 I’m looking to collaborate on **Data Analytics, Statistical Analysis and Dashboard Projects**
-
-- 🤝 I’m looking for help with **Improving Data Analysis, Power BI and SQL Skills**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Ashvin-official](https://github.com/Ashvin-official)
-
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
-
-- 💬 Ask me about **Excel, Student Data Analytics, Generative AI and Interactive Dashboards**
-
-- 📫 How to reach me **itsmeashvin2008@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/its-ashvin](www.linkedin.com/in/its-ashvin)
-
-- ⚡ Fun fact **I'm a Statistics student turning real-world questions into data analytics projects!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashvin a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashvin a" height="30" width="40" /></a>
-<a href="https://instagram.com/a_shv.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_shv.in" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/its-ashvin">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:itsmeashvin2008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Ashvin-official">
+    <img src="https://img.shields.io/badge/GitHub-Ashvin--official-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Turning raw data into meaningful insights and better decisions.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashvin-official&show_icons=true&locale=en&layout=compact" alt="ashvin-official" /></p>
+📍 Kerala, India   •   📊 B.Sc. Statistics Student   •   🚀 Open to Learning & Collaboration
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashvin-official&show_icons=true&locale=en" alt="ashvin-official" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashvin-official&" alt="ashvin-official" /></p>
+👋 About Me
+
+I'm Ashvin, an aspiring Data Analyst interested in finding patterns in data and communicating insights that help people make informed decisions.
+
+📈 Building practical skills in data analytics and statistical thinking.
+
+🧹 Exploring the workflow from data preparation to analysis and visualization.
+
+🧪 Learning through hands-on projects and continuous improvement.
+
+🤝 Interested in data analytics internships, collaboration, and real-world learning opportunities.
+
+🧰 My Analytics Toolkit
+
+<div align="center">
+
+Tool / Skill
+
+Focus
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+
+Spreadsheet analysis and data preparation
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+
+Interactive dashboards and reporting
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+
+Querying and working with structured data
+
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+
+Statistical computing and analysis
+
+📐 Statistical Analysis
+
+Exploring patterns and summarizing data
+
+📊 Data Visualization
+
+Presenting findings clearly with charts
+
+</div>
+
+🌟 Featured Project
+
+<div align="center">
+
+🎓 Generative AI & Student Productivity Analytics
+
+How does Generative AI affect students' learning and productivity?
+
+</div>
+
+A survey-based project exploring students' use of generative AI in education, including usage habits, perceived performance, concerns, and views on AI in college.
+
+The project journey
+
+01 Collect → 02 Prepare → 03 Analyse → 04 Visualize → 05 Present
+
+Stage
+
+What I did
+
+📝 Data collection
+
+Collected student responses using Google Forms
+
+🧹 Data preparation
+
+Organized survey responses using spreadsheet tools
+
+📐 Analysis
+
+Explored responses to identify patterns and summarize findings
+
+📊 Visualization
+
+Presented findings through charts and visual summaries
+
+💻 Dashboard
+
+Built an interactive HTML dashboard with assistance from Claude AI
+
+Tools used: Google Forms · Microsoft Excel · Google Sheets · HTML · Claude AI
+
+<div align="center">
+
+<a href="https://github.com/Ashvin-official/Interactive-dashboard-of-my-project">
+  <img src="https://img.shields.io/badge/Explore%20Project-View%20Repository-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Explore project repository"/>
+</a>
+
+</div>
+
+📝 Learning in progress: This project is part of my journey in applying statistics and data analytics to a real-world question. I continue to improve the analysis and dashboard as I learn.
+
+🎯 What I'm Working Toward
+
+Strengthening my skills in Excel, Power BI, SQL, and R.
+
+Improving my statistical analysis and data visualization techniques.
+
+Building and documenting useful, practical analytics projects.
+
+Finding opportunities to learn from real-world data and collaborate with others.
+
+🤝 Let's Connect
+
+Have a data project, learning resource, or collaboration idea? I'd be happy to connect.
+
+<p>
+  <a href="https://www.linkedin.com/in/its-ashvin"><img src="https://img.shields.io/badge/LinkedIn-its--ashvin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:itsmeashvin2008@gmail.com"><img src="https://img.shields.io/badge/Email-itsmeashvin2008%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Ashvin-official"><img src="https://img.shields.io/badge/GitHub-Ashvin--official-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<div align="center">
+
+Learning continuously. Analysing thoughtfully. Turning data into insights.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" alt="Decorative footer"/>
+
+</div>
